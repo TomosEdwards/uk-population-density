@@ -3,4 +3,4 @@
 This repository serves to create a map of England and Wales, shaded
 by population density, as shown below:
 
-![Population Density](population_density.png)
+![Population Density](UK Postcodes.png)
