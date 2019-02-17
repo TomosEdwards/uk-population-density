@@ -30,7 +30,7 @@ data.plot(column=pop_density.name, cmap= 'coolwarm', linewidth=0.3, ax=ax,
           )
 # Get rid of axes for presentation and add a title
 ax.axis('off')
-fig.suptitle('Postcode Population Density \n (Person per Hectare)', fontsize=30)
+fig.suptitle('Postcode Population Density \n (Person per square km)', fontsize=30)
 
 # set scalar-mappable variable for configuring the colour bar scale and generate the colour bar
 sm = plt.cm.ScalarMappable(cmap='coolwarm',
